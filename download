@@ -1,0 +1,13 @@
+# Built installers go to GitHub Releases, not into the repo
+*.exe
+*.msi
+*.zip
+*.7z
+*.rar
+
+# OS / editor junk
+Thumbs.db
+.DS_Store
+desktop.ini
+.vscode/
+.idea/
